@@ -1,1 +1,1 @@
-# Frontend Design Gallery Features
+# Expanding Card : [frontend design feature] 
